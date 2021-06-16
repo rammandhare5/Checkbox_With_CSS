@@ -41,7 +41,7 @@ label::after {
     height: 70px;
     background: #01cd42;
     transition: .4s ease;
-    clip-path: circle(0px at 260px 25px);
+    clip-path: circle(30px at 260px 25px);
 }
 
 .name {
